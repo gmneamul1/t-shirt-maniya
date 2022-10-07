@@ -1,0 +1,10 @@
+.header a{
+margin-right: 20px ;
+
+text-decoration: none;
+
+}
+.header{
+    /* margin-bottom: 20px; */
+    padding: 20px;
+}
